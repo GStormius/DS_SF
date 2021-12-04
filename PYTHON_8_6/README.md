@@ -4,9 +4,9 @@
 [1. Описание проекта](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Описание-проекта)  
 [2. Решаемый кейс](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Решаемый-кейс)  
 [3. Краткая информация о данных](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](ttps://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](ttps://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Результаты)  
-[6. Выводы](ttps://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Выводы)
+[4. Этапы работы над проектом](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Результаты)  
+[6. Выводы](https://github.com/GStormius/DS_SF/blob/master/PYTHON_8_6/README.md#Выводы)
 
 
 ### Описание проекта
