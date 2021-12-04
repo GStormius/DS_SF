@@ -30,4 +30,4 @@ def game_core_v3(number: int = 1) -> int:
     return count
 
 
-print(score_game(game_core_v3))
+score_game(game_core_v3)
